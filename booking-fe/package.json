@@ -1,0 +1,72 @@
+{
+  "name": "@coreui/coreui-pro-react-admin-template-starter-ts",
+  "version": "3.0.0",
+  "description": "CoreUI Pro React Admin Template Starter Typescript",
+  "author": {
+    "name": "CoreUI",
+    "url": "https://coreui.io",
+    "github": "https://github.com/coreui",
+    "twitter": "https://twitter.com/core_ui"
+  },
+  "contributors": [
+    {
+      "name": "CoreUI Team",
+      "url": "https://github.com/orgs/coreui/people"
+    }
+  ],
+  "homepage": ".",
+  "copyright": "Copyright 2017-2020 creativeLabs Łukasz Holeczek",
+  "license": "https://coreui.io/pro/license/",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coreui/coreui-pro-react-admin-template-starter-ts.git"
+  },
+  "dependencies": {
+    "@coreui/coreui-pro": "^3.2.0",
+    "@coreui/icons": "2.0.0-beta.4",
+    "@coreui/icons-react": "^1.0.1",
+    "@coreui/react": "^3.0.1",
+    "@testing-library/jest-dom": "~4.2.4",
+    "@testing-library/react": "~9.3.2",
+    "@testing-library/user-event": "~7.1.2",
+    "@types/jest": "~24.0.0",
+    "@types/node": "~12.0.0",
+    "@types/react": "~16.9.0",
+    "@types/react-dom": "~16.9.0",
+    "@types/react-redux": "~7.1.9",
+    "@types/react-router-dom": "~5.1.5",
+    "node-sass": "^4.14.1",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "react-redux": "~7.2.0",
+    "react-router-config": "~5.1.1",
+    "react-router-dom": "~5.2.0",
+    "react-scripts": "~3.4.1",
+    "react-scripts-ts": "~3.1.0",
+    "redux": "~4.0.5",
+    "typescript": "~3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "zip": "git archive -o coreui-pro-react-admin-template-starter-ts-v$npm_package_version.zip -9 HEAD"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
