@@ -2,9 +2,9 @@ import React from 'react'
 
 const Dashboard = () => {
   return (
-    <>
-      Hello world!
-    </>
+    <div>
+        <i className='fa bg-facebook'> Facebook </i>
+    </div>
   )
 }
 

@@ -19,7 +19,8 @@
     "noEmit": true,
     "jsx": "react",
     "rootDir": "src",
-    "outDir": "build"
+    "outDir": "build",
+    "experimentalDecorators": true
   },
   "include": [
     "src"
