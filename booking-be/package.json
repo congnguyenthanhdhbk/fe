@@ -47,7 +47,7 @@
     "moleculer-web": "^0.8.0",
     "mongoose": "^5.9.18",
     "nats": "^1.0.1",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.16"
   },
   "engines": {
     "node": ">= 8.x.x"
