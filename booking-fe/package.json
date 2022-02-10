@@ -41,7 +41,7 @@
     "lodash": "^4.17.15",
     "mobx": "^5.15.4",
     "mobx-react-lite": "^2.0.7",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",
     "react-mobx": "0.0.4",
